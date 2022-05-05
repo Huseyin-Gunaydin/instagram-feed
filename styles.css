@@ -1,0 +1,73 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.image1 {
+  display: inline-block;
+}
+.image2 {
+  display: inline-block;
+}
+.image3 {
+  display: inline-block;
+}
+.image4 {
+  display: inline-block;
+}
+.image5 {
+  display: inline-block;
+}
+.image6 {
+  display: inline-block;
+}
+.image7 {
+  display: inline-block;
+}
+.image8 {
+  display: inline-block;
+}
+.image9 {
+  display: inline-block;
+}
+
+.image1 img {
+  display: inline-block;
+  width: 25vw;
+  height: 25vh;
+}
+
+.image2 img {
+  display: inline-block;
+  width: 25vw;
+  height: 25vh;
+}
+.image3 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image4 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image5 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image6 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image7 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image8 img {
+  width: 25vw;
+  height: 25vh;
+}
+.image9 img {
+  width: 25vw;
+  height: 25vh;
+}
